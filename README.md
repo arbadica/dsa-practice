@@ -65,6 +65,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/arbadica/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/arbadica/dsa-practice/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -78,4 +79,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/arbadica/dsa-practice/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/arbadica/dsa-practice/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/arbadica/dsa-practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
