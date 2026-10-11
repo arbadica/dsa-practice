@@ -16,6 +16,7 @@
 | [0169-majority-element](https://github.com/arbadica/dsa-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arbadica/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/arbadica/dsa-practice/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/arbadica/dsa-practice/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,4 +88,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arbadica/dsa-practice/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/arbadica/dsa-practice/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
