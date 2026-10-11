@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/arbadica/dsa-practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/arbadica/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arbadica/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/arbadica/dsa-practice/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/arbadica/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/arbadica/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/arbadica/dsa-practice/tree/master/0075-sort-colors) |
@@ -91,5 +92,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/arbadica/dsa-practice/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/arbadica/dsa-practice/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
