@@ -95,5 +95,10 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arbadica/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/arbadica/dsa-practice/tree/master/0035-search-insert-position) |
+| [0374-guess-number-higher-or-lower](https://github.com/arbadica/dsa-practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/arbadica/dsa-practice/tree/master/0704-binary-search) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/arbadica/dsa-practice/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
