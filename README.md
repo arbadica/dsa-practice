@@ -19,6 +19,7 @@
 | [0217-contains-duplicate](https://github.com/arbadica/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/arbadica/dsa-practice/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/arbadica/dsa-practice/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/arbadica/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | [0367-valid-perfect-square](https://github.com/arbadica/dsa-practice/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/arbadica/dsa-practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/arbadica/dsa-practice/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/arbadica/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Interactive
 |  |
 | ------- |
@@ -106,4 +108,8 @@
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/arbadica/dsa-practice/tree/master/0367-valid-perfect-square) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/arbadica/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
