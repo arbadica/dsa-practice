@@ -15,6 +15,7 @@
 | [0088-merge-sorted-array](https://github.com/arbadica/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arbadica/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/arbadica/dsa-practice/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/arbadica/dsa-practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/arbadica/dsa-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arbadica/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/arbadica/dsa-practice/tree/master/0283-move-zeroes) |
@@ -96,6 +97,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arbadica/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/arbadica/dsa-practice/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/arbadica/dsa-practice/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/arbadica/dsa-practice/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/arbadica/dsa-practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/arbadica/dsa-practice/tree/master/0704-binary-search) |
