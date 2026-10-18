@@ -120,4 +120,12 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arbadica/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/arbadica/dsa-practice/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/arbadica/dsa-practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
