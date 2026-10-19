@@ -24,6 +24,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/arbadica/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/arbadica/dsa-practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arbadica/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/arbadica/dsa-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0088-merge-sorted-array](https://github.com/arbadica/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/arbadica/dsa-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arbadica/dsa-practice/tree/master/0217-contains-duplicate) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/arbadica/dsa-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/arbadica/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/arbadica/dsa-practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arbadica/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/arbadica/dsa-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Interactive
 |  |
 | ------- |
