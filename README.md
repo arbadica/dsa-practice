@@ -131,4 +131,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/arbadica/dsa-practice/tree/master/0206-reverse-linked-list) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/arbadica/dsa-practice/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
