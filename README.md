@@ -24,6 +24,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/arbadica/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/arbadica/dsa-practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arbadica/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/arbadica/dsa-practice/tree/master/0867-transpose-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arbadica/dsa-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
@@ -135,4 +136,12 @@
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/arbadica/dsa-practice/tree/master/0181-employees-earning-more-than-their-managers) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/arbadica/dsa-practice/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/arbadica/dsa-practice/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
