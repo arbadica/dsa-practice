@@ -12,6 +12,7 @@
 | [0035-search-insert-position](https://github.com/arbadica/dsa-practice/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/arbadica/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/arbadica/dsa-practice/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/arbadica/dsa-practice/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/arbadica/dsa-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/arbadica/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arbadica/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -139,9 +140,11 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/arbadica/dsa-practice/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/arbadica/dsa-practice/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/arbadica/dsa-practice/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/arbadica/dsa-practice/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
