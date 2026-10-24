@@ -28,6 +28,7 @@
 | [0704-binary-search](https://github.com/arbadica/dsa-practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arbadica/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/arbadica/dsa-practice/tree/master/0867-transpose-matrix) |
+| [1929-concatenation-of-array](https://github.com/arbadica/dsa-practice/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arbadica/dsa-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
@@ -153,4 +154,5 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/arbadica/dsa-practice/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/arbadica/dsa-practice/tree/master/0867-transpose-matrix) |
+| [1929-concatenation-of-array](https://github.com/arbadica/dsa-practice/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
