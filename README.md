@@ -129,6 +129,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/arbadica/dsa-practice/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/arbadica/dsa-practice/tree/master/0367-valid-perfect-square) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/arbadica/dsa-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Ternary Search
 |  |
 | ------- |
