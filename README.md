@@ -65,6 +65,7 @@
 | [0189-rotate-array](https://github.com/arbadica/dsa-practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/arbadica/dsa-practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/arbadica/dsa-practice/tree/master/0344-reverse-string) |
+| [1768-merge-strings-alternately](https://github.com/arbadica/dsa-practice/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/arbadica/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/arbadica/dsa-practice/tree/master/0344-reverse-string) |
+| [1768-merge-strings-alternately](https://github.com/arbadica/dsa-practice/tree/master/1768-merge-strings-alternately) |
 ## Bracket Sequences
 |  |
 | ------- |
