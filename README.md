@@ -61,6 +61,7 @@
 | [0042-trapping-rain-water](https://github.com/arbadica/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/arbadica/dsa-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/arbadica/dsa-practice/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/arbadica/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arbadica/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/arbadica/dsa-practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/arbadica/dsa-practice/tree/master/0283-move-zeroes) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arbadica/dsa-practice/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/arbadica/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/arbadica/dsa-practice/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/arbadica/dsa-practice/tree/master/1768-merge-strings-alternately) |
 ## Bracket Sequences
