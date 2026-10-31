@@ -24,6 +24,7 @@
 | [0169-majority-element](https://github.com/arbadica/dsa-practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/arbadica/dsa-practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/arbadica/dsa-practice/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/arbadica/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/arbadica/dsa-practice/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arbadica/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/arbadica/dsa-practice/tree/master/0704-binary-search) |
@@ -176,4 +177,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/arbadica/dsa-practice/tree/master/0881-boats-to-save-people) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/arbadica/dsa-practice/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
