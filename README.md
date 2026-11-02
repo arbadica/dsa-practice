@@ -32,6 +32,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/arbadica/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/arbadica/dsa-practice/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/arbadica/dsa-practice/tree/master/0881-boats-to-save-people) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/arbadica/dsa-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1929-concatenation-of-array](https://github.com/arbadica/dsa-practice/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arbadica/dsa-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
@@ -50,6 +51,7 @@
 | [0169-majority-element](https://github.com/arbadica/dsa-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arbadica/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0881-boats-to-save-people](https://github.com/arbadica/dsa-practice/tree/master/0881-boats-to-save-people) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/arbadica/dsa-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arbadica/dsa-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
@@ -74,6 +76,7 @@
 | [0344-reverse-string](https://github.com/arbadica/dsa-practice/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/arbadica/dsa-practice/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/arbadica/dsa-practice/tree/master/0881-boats-to-save-people) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/arbadica/dsa-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/arbadica/dsa-practice/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -137,6 +140,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/arbadica/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/arbadica/dsa-practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arbadica/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/arbadica/dsa-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arbadica/dsa-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Interactive
 |  |
