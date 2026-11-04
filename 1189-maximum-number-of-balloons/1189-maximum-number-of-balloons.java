@@ -23,10 +23,19 @@ class Solution {
             }
         }
 
-return Math.min(
-            Math.min(cnb, cna),
-            Math.min(Math.min(cnl / 2, cno / 2), cnn)
-        );
+// return Math.min(
+//             Math.min(cnb, cna),
+//             Math.min(Math.min(cnl / 2, cno / 2), cnn)
+//         );
+
+
+        int x=Math.min(cnb,cna);
+        int y=Math.min(cnn,x);
+        int z=Math.min(cnl/2,cno/2);
+
+        int res=Math.min(y,z);
+
+        return res;
 
     }
 }
