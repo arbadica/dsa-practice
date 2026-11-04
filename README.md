@@ -43,6 +43,7 @@
 | [0073-set-matrix-zeroes](https://github.com/arbadica/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/arbadica/dsa-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arbadica/dsa-practice/tree/master/0217-contains-duplicate) |
+| [1189-maximum-number-of-balloons](https://github.com/arbadica/dsa-practice/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/arbadica/dsa-practice/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/arbadica/dsa-practice/tree/master/1189-maximum-number-of-balloons) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 | [0125-valid-palindrome](https://github.com/arbadica/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/arbadica/dsa-practice/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/arbadica/dsa-practice/tree/master/0680-valid-palindrome-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/arbadica/dsa-practice/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/arbadica/dsa-practice/tree/master/1768-merge-strings-alternately) |
 ## Bracket Sequences
 |  |
