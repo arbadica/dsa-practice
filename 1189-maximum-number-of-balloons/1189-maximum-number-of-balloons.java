@@ -23,10 +23,6 @@ class Solution {
             }
         }
 
-// return Math.min(
-//             Math.min(cnb, cna),
-//             Math.min(Math.min(cnl / 2, cno / 2), cnn)
-//         );
 
 
         int x=Math.min(cnb,cna);
