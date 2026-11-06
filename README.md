@@ -155,6 +155,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/arbadica/dsa-practice/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/arbadica/dsa-practice/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/arbadica/dsa-practice/tree/master/0367-valid-perfect-square) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/arbadica/dsa-practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
