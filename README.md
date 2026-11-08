@@ -15,6 +15,7 @@
 | [0042-trapping-rain-water](https://github.com/arbadica/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/arbadica/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/arbadica/dsa-practice/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/arbadica/dsa-practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/arbadica/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/arbadica/dsa-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/arbadica/dsa-practice/tree/master/0088-merge-sorted-array) |
@@ -157,6 +158,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/arbadica/dsa-practice/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/arbadica/dsa-practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/arbadica/dsa-practice/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/arbadica/dsa-practice/tree/master/0367-valid-perfect-square) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/arbadica/dsa-practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
