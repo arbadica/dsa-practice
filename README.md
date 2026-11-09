@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arbadica/dsa-practice/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/arbadica/dsa-practice/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/arbadica/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/arbadica/dsa-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arbadica/dsa-practice/tree/master/0217-contains-duplicate) |
@@ -123,6 +124,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/arbadica/dsa-practice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/arbadica/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/arbadica/dsa-practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/arbadica/dsa-practice/tree/master/0125-valid-palindrome) |
@@ -158,6 +160,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/arbadica/dsa-practice/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/arbadica/dsa-practice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/arbadica/dsa-practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/arbadica/dsa-practice/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/arbadica/dsa-practice/tree/master/0367-valid-perfect-square) |
