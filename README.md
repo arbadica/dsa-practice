@@ -35,6 +35,7 @@
 | [0867-transpose-matrix](https://github.com/arbadica/dsa-practice/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/arbadica/dsa-practice/tree/master/0881-boats-to-save-people) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/arbadica/dsa-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1550-three-consecutive-odds](https://github.com/arbadica/dsa-practice/tree/master/1550-three-consecutive-odds) |
 | [1929-concatenation-of-array](https://github.com/arbadica/dsa-practice/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arbadica/dsa-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/arbadica/dsa-practice/tree/master/3232-find-if-digit-game-can-be-won) |
