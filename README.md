@@ -134,6 +134,7 @@
 | [0125-valid-palindrome](https://github.com/arbadica/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/arbadica/dsa-practice/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/arbadica/dsa-practice/tree/master/0680-valid-palindrome-ii) |
+| [0709-to-lower-case](https://github.com/arbadica/dsa-practice/tree/master/0709-to-lower-case) |
 | [1189-maximum-number-of-balloons](https://github.com/arbadica/dsa-practice/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/arbadica/dsa-practice/tree/master/1768-merge-strings-alternately) |
 ## Bracket Sequences
