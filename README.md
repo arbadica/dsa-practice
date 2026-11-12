@@ -167,6 +167,7 @@
 | [0013-roman-to-integer](https://github.com/arbadica/dsa-practice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/arbadica/dsa-practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/arbadica/dsa-practice/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/arbadica/dsa-practice/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/arbadica/dsa-practice/tree/master/0367-valid-perfect-square) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/arbadica/dsa-practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2652-sum-multiples](https://github.com/arbadica/dsa-practice/tree/master/2652-sum-multiples) |
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/arbadica/dsa-practice/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/arbadica/dsa-practice/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/arbadica/dsa-practice/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/arbadica/dsa-practice/tree/master/1929-concatenation-of-array) |
 ## Timsort
@@ -225,4 +227,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arbadica/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/arbadica/dsa-practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
