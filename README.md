@@ -40,6 +40,7 @@
 | [1929-concatenation-of-array](https://github.com/arbadica/dsa-practice/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arbadica/dsa-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/arbadica/dsa-practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3024-type-of-triangle](https://github.com/arbadica/dsa-practice/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/arbadica/dsa-practice/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/arbadica/dsa-practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
@@ -62,6 +63,7 @@
 | [0881-boats-to-save-people](https://github.com/arbadica/dsa-practice/tree/master/0881-boats-to-save-people) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/arbadica/dsa-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arbadica/dsa-practice/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3024-type-of-triangle](https://github.com/arbadica/dsa-practice/tree/master/3024-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -177,6 +179,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/arbadica/dsa-practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/arbadica/dsa-practice/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/arbadica/dsa-practice/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/arbadica/dsa-practice/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/arbadica/dsa-practice/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/arbadica/dsa-practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/arbadica/dsa-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -237,4 +240,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/arbadica/dsa-practice/tree/master/0258-add-digits) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/arbadica/dsa-practice/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
