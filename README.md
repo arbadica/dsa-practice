@@ -40,6 +40,7 @@
 | [1929-concatenation-of-array](https://github.com/arbadica/dsa-practice/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arbadica/dsa-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/arbadica/dsa-practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/arbadica/dsa-practice/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3024-type-of-triangle](https://github.com/arbadica/dsa-practice/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/arbadica/dsa-practice/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/arbadica/dsa-practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
