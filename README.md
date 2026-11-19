@@ -29,6 +29,7 @@
 | [0217-contains-duplicate](https://github.com/arbadica/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/arbadica/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/arbadica/dsa-practice/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arbadica/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arbadica/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/arbadica/dsa-practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arbadica/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -53,6 +54,7 @@
 | [0073-set-matrix-zeroes](https://github.com/arbadica/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/arbadica/dsa-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arbadica/dsa-practice/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arbadica/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/arbadica/dsa-practice/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
 |  |
