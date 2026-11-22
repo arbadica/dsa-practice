@@ -148,6 +148,7 @@
 | [0709-to-lower-case](https://github.com/arbadica/dsa-practice/tree/master/0709-to-lower-case) |
 | [1189-maximum-number-of-balloons](https://github.com/arbadica/dsa-practice/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/arbadica/dsa-practice/tree/master/1768-merge-strings-alternately) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/arbadica/dsa-practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Bracket Sequences
 |  |
 | ------- |
