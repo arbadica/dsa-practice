@@ -28,6 +28,7 @@
 | [0189-rotate-array](https://github.com/arbadica/dsa-practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/arbadica/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/arbadica/dsa-practice/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/arbadica/dsa-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/arbadica/dsa-practice/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arbadica/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arbadica/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -55,6 +56,7 @@
 | [0073-set-matrix-zeroes](https://github.com/arbadica/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/arbadica/dsa-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arbadica/dsa-practice/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/arbadica/dsa-practice/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arbadica/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/arbadica/dsa-practice/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
@@ -65,6 +67,7 @@
 | [0088-merge-sorted-array](https://github.com/arbadica/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/arbadica/dsa-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arbadica/dsa-practice/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/arbadica/dsa-practice/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/arbadica/dsa-practice/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/arbadica/dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/arbadica/dsa-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -162,6 +165,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arbadica/dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/arbadica/dsa-practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arbadica/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/arbadica/dsa-practice/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/arbadica/dsa-practice/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/arbadica/dsa-practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arbadica/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -181,6 +185,7 @@
 | [0066-plus-one](https://github.com/arbadica/dsa-practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/arbadica/dsa-practice/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/arbadica/dsa-practice/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/arbadica/dsa-practice/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/arbadica/dsa-practice/tree/master/0367-valid-perfect-square) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/arbadica/dsa-practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/arbadica/dsa-practice/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -255,4 +260,8 @@
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/arbadica/dsa-practice/tree/master/3024-type-of-triangle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/arbadica/dsa-practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
