@@ -56,6 +56,7 @@
 | [0073-set-matrix-zeroes](https://github.com/arbadica/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/arbadica/dsa-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arbadica/dsa-practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/arbadica/dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arbadica/dsa-practice/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arbadica/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/arbadica/dsa-practice/tree/master/1189-maximum-number-of-balloons) |
@@ -67,6 +68,7 @@
 | [0088-merge-sorted-array](https://github.com/arbadica/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/arbadica/dsa-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arbadica/dsa-practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/arbadica/dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arbadica/dsa-practice/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/arbadica/dsa-practice/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/arbadica/dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -146,6 +148,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arbadica/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/arbadica/dsa-practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/arbadica/dsa-practice/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/arbadica/dsa-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/arbadica/dsa-practice/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/arbadica/dsa-practice/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/arbadica/dsa-practice/tree/master/0709-to-lower-case) |
