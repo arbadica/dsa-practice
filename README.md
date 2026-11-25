@@ -33,6 +33,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arbadica/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arbadica/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/arbadica/dsa-practice/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/arbadica/dsa-practice/tree/master/0705-design-hashset) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arbadica/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/arbadica/dsa-practice/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/arbadica/dsa-practice/tree/master/0881-boats-to-save-people) |
@@ -59,6 +60,7 @@
 | [0242-valid-anagram](https://github.com/arbadica/dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arbadica/dsa-practice/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arbadica/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0705-design-hashset](https://github.com/arbadica/dsa-practice/tree/master/0705-design-hashset) |
 | [1189-maximum-number-of-balloons](https://github.com/arbadica/dsa-practice/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
 |  |
@@ -209,6 +211,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/arbadica/dsa-practice/tree/master/0206-reverse-linked-list) |
+| [0705-design-hashset](https://github.com/arbadica/dsa-practice/tree/master/0705-design-hashset) |
 ## Recursion
 |  |
 | ------- |
@@ -267,4 +270,12 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/arbadica/dsa-practice/tree/master/0268-missing-number) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/arbadica/dsa-practice/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/arbadica/dsa-practice/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
