@@ -201,6 +201,7 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/arbadica/dsa-practice/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/arbadica/dsa-practice/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/arbadica/dsa-practice/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3360-stone-removal-game](https://github.com/arbadica/dsa-practice/tree/master/3360-stone-removal-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/arbadica/dsa-practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/arbadica/dsa-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Ternary Search
@@ -233,6 +234,7 @@
 | [0258-add-digits](https://github.com/arbadica/dsa-practice/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/arbadica/dsa-practice/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/arbadica/dsa-practice/tree/master/1929-concatenation-of-array) |
+| [3360-stone-removal-game](https://github.com/arbadica/dsa-practice/tree/master/3360-stone-removal-game) |
 ## Timsort
 |  |
 | ------- |
